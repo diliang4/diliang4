@@ -1,5 +1,7 @@
 Gamer Bot
-utilizes
+utilizes Riot API to get data for all League of legends player in NA server
+found the champion txt in this reddit post : https://www.reddit.com/r/summonerschool/comments/2uhngz/list_of_champions_in_text_format/
+
 Adding gamer Bot to your discord channel : https://discord.com/api/oauth2/authorize?client_id=851688993795211284&permissions=3088&scope=bot
 use ! to call the bot
 actions :
