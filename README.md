@@ -11,3 +11,4 @@ actions :
 !ranked "lol name" :  returns the ranked level of the player
 
 !champion : randomly selects champion that you should play
+<img width="916" alt="截屏2021-06-08 下午5 29 07" src="https://user-images.githubusercontent.com/73125585/121266745-abe1c080-c880-11eb-9b12-56b669e38727.png">
